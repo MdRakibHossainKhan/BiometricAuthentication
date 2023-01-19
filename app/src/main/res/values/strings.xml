@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Biometric Authentication</string>
+    <string name="face_recognition">Face Recognition</string>
+    <string name="fingerprint_recognition">Fingerprint Recognition</string>
+    <string name="authenticate">Authenticate</string>
 </resources>
