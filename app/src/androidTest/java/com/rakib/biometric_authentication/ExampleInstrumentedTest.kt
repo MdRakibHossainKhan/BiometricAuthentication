@@ -1,4 +1,4 @@
-package com.rakib.biometricauthentication
+package com.rakib.biometric_authentication
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

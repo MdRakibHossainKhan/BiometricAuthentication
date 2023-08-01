@@ -1,4 +1,4 @@
-package com.rakib.biometricauthentication
+package com.rakib.biometric_authentication
 
 import org.junit.Test
 
